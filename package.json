@@ -1,0 +1,29 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "this is a web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-aishwarya/web-server.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongoose"
+  ],
+  "author": "Aishwarya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i-aishwarya/web-server/issues"
+  },
+  "homepage": "https://github.com/i-aishwarya/web-server#readme",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.3"
+  }
+}
